@@ -1,0 +1,9 @@
+Asset_Category,Three_Letter_Prefix,Description
+Tractor Head,TRK,Motorized pulling unit / prime mover for hauling trailers
+Box Trailer,DVN,Dry van / fully enclosed cargo trailer
+Curtain Trailer,CST,Curtainside trailer for flexible side-loading
+Flatbed Trailer,FBT,Standard open flatbed for oversized or side-loaded freight
+Extendable Trailer,EXT,Telescopic or lowboy trailer for extra-long / heavy hauls
+Tipper,DMP,Dump trailer with hydraulic lifting for bulk unloading
+Bulker,BLK,"Dry bulk silo tanker for powders, grains, or cement"
+Medium Truck,MDT,Medium-duty rigid truck / straight box truck (non-articulated)

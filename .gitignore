@@ -1,0 +1,41 @@
+# ============================================================
+#  DispatchDesk - .gitignore
+#  The app is fully self-contained: index.html, js/, vendor/
+#  and README.md are intentionally tracked. Do NOT ignore
+#  vendor/ - the app needs it to work offline.
+# ============================================================
+
+# -- Development archive: historical snapshots and tools.
+#    Not used by the app. Remove this line if you want dev/ in git.
+dev/
+
+# -- Backup / temporary files --
+*.bak
+*.tmp
+*.orig
+*~
+*.swp
+*.swo
+
+# -- Local database backups / data exports (never commit data) --
+*.sqlite
+*.sqlite3
+*.db
+*.dump
+
+# -- Logs --
+*.log
+npm-debug.log*
+
+# -- Dependencies (future-proofing, harmless if unused) --
+node_modules/
+
+# -- Editors / IDEs --
+.vscode/
+.idea/
+
+# -- OS junk --
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
